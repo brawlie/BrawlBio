@@ -2,6 +2,10 @@
 
 An Official Npm Package That Interact With BrawlBio Easily.
 
+### Install 
+
+`npm i brawlbio.js`
+
 ### Usage
 
 
